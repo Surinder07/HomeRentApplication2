@@ -1,4 +1,4 @@
-package com.example.surindersingh.homerentapplication;
+package com.example.surinder.homerentapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

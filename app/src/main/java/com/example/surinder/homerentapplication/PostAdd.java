@@ -1,4 +1,4 @@
-package com.example.surindersingh.homerentapplication;
+package com.example.surinder.homerentapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
